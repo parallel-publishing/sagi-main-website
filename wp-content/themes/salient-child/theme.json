@@ -1,0 +1,22 @@
+{
+	"settings": {
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFamily": "lemon-milk",
+					"slug": "lemon-milk",
+					"fontFace": [
+						{
+							"fontFamily": "lemon-milk",
+							"fontStretch": "",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "/wp-content/uploads/useanyfont/190718010547LemonMilk.woff2"
+						}
+					],
+					"isUAF": true
+				}
+			]
+		}
+	}
+}
