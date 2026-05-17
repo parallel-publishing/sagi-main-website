@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'lemon-milk';
+					src: url('/wp-content/uploads/useanyfont/190718010547LemonMilk.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.lemon-milk{font-family: 'lemon-milk' !important;}
+
+						.lemon-milk-font, .lemon-milk-font h2 b, .lemon-milk-font h2, .lemon-milk-font h1{
+					font-family: 'lemon-milk' !important;
+				}
+		
